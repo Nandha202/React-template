@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+
+.seven{
+    position: absolute;
+    width: 939px;
+    height: 485px;
+    left: 198px;
+    top: 3500px;
+    
+    background: #F2F2F2;
+    border-radius: 8.75648px;
+}
+.seven1{
+    position: relative;
+    top: 80px;
+    
+}
+.image{
+    position: relative;
+width: 70px;
+height: 70px;
+left: 0px;
+top: 90px;
+
+background: url(./../img/addicted-man-thinking-about-his-problems\ 1\ \(1\).png);
+border-radius: 10px;
+}
+.image1{
+    position: relative;
+width: 70px;
+height: 70px;
+left: 0px;
+top: 110px;
+
+background: url(./../img/practitioner-man-doctor-helping-retiree-senior-male-wheelchair-physiotherapy-strength-exercise\ 1.png);
+border-radius: 10px;
+}
+.image2{
+    position: relative;
+width: 70px;
+height: 70px;
+left: 0px;
+top: 130px;
+
+background: url(./../img/patient-doing-physical-rehabilitation-helped-by-therapists\ 1.png);
+border-radius: 10px;
+}
+.image3{
+    position: relative;
+width: 70px;
+height: 70px;
+left: 0px;
+top: 150px;
+
+background: url(./../img/caucasian-depressed-man-with-pills\ 1\ \(1\).png);
+border-radius: 10px;
+}
+.seven3{
+    position: absolute;
+width: 288px;
+height: 70px;
+left: 500px;
+top: 130px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 25px;
+/* or 175% */
+
+
+color:black;
+}
+.seven5{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    color: #103E35;
+}

@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+.img2{
+    width: 50%;
+height: 600px;
+top: 180px;
+left: 100px;
+}
+.img3{
+    width: 100%;
+    height: 600px;
+    top: 180px;
+    left: 100px;
+}
+.img4{
+    width: 100%;
+    height: 600px;
+    top: 180px;
+    left: 100px;
+}
+.middle{
+    width: 100%;
+    height: 1600px;
+}
+}

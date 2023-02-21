@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-body-tertiary{
+  
+width: 1350px;
+background: #103E35;
+}
+.menu{
+  color: #FFFFFF;
+  width: 90%;
+  font-family: 'Poppins', sans-serif;
+  
+}
+.img{
+  background-image: url(./img/beautiful-landscapes-peak-green-skyline-china\ 1.png);
+  width: 100%;
+  height: 700px;
+  opacity: 0.9;
+}
+.para{
+  position: absolute;
+width: 834px;
+height: 240px;
+left: 100px;
+top: 320px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 53px;
+line-height: 80px;
+/* or 167% */
+
+
+color: #FFFFFF;
+
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.img1{
+  background-image: url(./img/Rectangle\ 60.png);
+  position: relative;
+  width: 10px;
+  height: 350px;
+  left: 700px;
+  top: 250px;
+}
+.post{
+  position: relative;
+  top: 50px;
+  left: 0px;
+ 
+}
+.one{
+  position: relative;
+  left: 300px;
+}
+.one1{
+  position: relative;
+left: 280px;
+font-size: 15px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+}
+.one2{
+  position: relative;
+  left: 50px;
+  font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+}

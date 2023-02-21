@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+
+.middle2 {
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+
+    top: 1800px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+/* .middele2{
+    position: relative;
+    top:2000px;
+} */
+.middle3 {
+    position: relative;
+    left: 150px;
+    
+    top: 100px;
+    margin-right: -20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.middle4 {
+    position: relative;
+    left: 100px;
+
+    top: 100px;
+    margin-right: -20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.middle5 {
+    position: relative;
+    left: 50px;
+    width: 30px;
+ right: 10px;
+    top: 100px;
+    
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+.demo1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.five {
+    position: relative;
+    left: 500px;
+    top: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    color: #103E35;
+}
+
+.button1 {
+    position: relative;
+    top: 150px;
+    left: 600px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
